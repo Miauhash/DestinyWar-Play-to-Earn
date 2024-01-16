@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# DestinyWar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The destiny War play to earn game in which users can play the game by using character, pet, and mount over the world
 
 ## Available Scripts
 
